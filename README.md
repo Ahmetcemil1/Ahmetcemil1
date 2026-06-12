@@ -2,10 +2,6 @@
 Hi 👋, I'm **Ahmet Cemil ERDOĞAN**  
 A self-taught developer who started coding at a young age and aims to build his own machines and technologies in the future 🚀  
 
-- 🔭 I’m currently working on **MatchMe**  
-- 👯 I’m looking to collaborate on **[Discord 4 Token Bots](https://github.com/Ahmetcemil1/Zenhor-v14-4-tokkenli-bot-d-zeltilecek-)**  
-- 🤝 I’m looking for help with **NotyMe App**  
-- 🌱 I’m currently learning:  
   **Algorithms and Data Structures (MIT 6.006), Operating Systems (MIT 6.S081), Computer Architecture & Digital Logic (Nand2Tetris + Harris & Harris), Computer Networks (Stanford CS144, Kurose & Ross), Databases (Stanford DB, Silberschatz & Korth), Theory of Computation (MIT 6.045, Hopcroft & Ullman), Python Programming (Problem Solving, LeetCode, HackerRank), English for Computer Science (Technical Vocabulary & Practice)**  
 - 💬 Ask me about:  
   **HTML5, CSS3, JavaScript (ES6+), Bootstrap, TailwindCSS, React.js (basic), Vue.js (basic), Git & GitHub, Responsive Web Design, Python basics (variables, loops, functions), Problem Solving (LeetCode/HackerRank)**  
@@ -13,13 +9,6 @@ A self-taught developer who started coding at a young age and aims to build his 
 
 ---
 
-## 🚀 Projects I Have Worked On  
-- **Discord Multi-Token Bot** → Automation and management bot built with multiple Discord tokens  
-- **Movie Website** → A web application for browsing and rating movies  
-- **MatchMe** → A matchmaking platform where users rate movies/music and get matched with similar profiles (Full-Stack: React + Node.js + MongoDB)  
-- **NotyMe App** → A productivity and note-taking mobile app with reminders and notifications  
-
----
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmet_cemil.e)  
